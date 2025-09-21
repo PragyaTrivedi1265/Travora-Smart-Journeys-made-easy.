@@ -13,7 +13,7 @@ Travora is a modern web application designed to simplify and enhance the travel 
 
 ---
 
-### **Technologies Used**
+### **Technologies Used** 
 
 * **Frontend:** React.js, JavaScript, HTML, CSS, Tailwind CSS
 * **Backend:** Node.js, Express.js
